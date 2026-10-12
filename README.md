@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm KHALED Chahid
 
-<!--
-**Khaled-Chahid/Khaled-Chahid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a final-year **Cybersecurity Engineering student** at ENSA Oujda, Morocco, specializing in **Penetration Testing and Security Auditing**.
 
-Here are some ideas to get you started:
+My interests include offensive security, vulnerability assessment, Active Directory security, and security automation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Skills
+- **Security:** Penetration Testing, Vulnerability Assessment, Active Directory, Web Security
+- **Tools:** Nmap, Burp Suite, Metasploit, Nessus
+- **Scripting:** Python, Bash
+- **Other:** Linux, Windows, Networking, ISO 27001
+
+### Projects
+Explore my repositories to discover my academic projects, security labs, and technical work.
+
+### Connect
+- **LinkedIn:** [Khaled-Chahid](http://www.linkedin.com/in/Khaled-Chahid)
+- **Email:** Chahid.Khaled.7@gmail.com
